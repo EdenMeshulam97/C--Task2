@@ -1,0 +1,10 @@
+C:\Users\edenm\source\repos\CS-Task21\A23 Ex02 Simon 207380015 Eden 315571539\Ex02_Othelo\obj\Debug\Ex02_Othelo.csproj.AssemblyReference.cache
+C:\Users\edenm\source\repos\CS-Task21\A23 Ex02 Simon 207380015 Eden 315571539\Ex02_Othelo\obj\Debug\Ex02_Othelo.csproj.SuggestedBindingRedirects.cache
+C:\Users\edenm\source\repos\CS-Task21\A23 Ex02 Simon 207380015 Eden 315571539\Ex02_Othelo\obj\Debug\Ex02_Othelo.csproj.CoreCompileInputs.cache
+C:\Users\edenm\source\repos\CS-Task21\A23 Ex02 Simon 207380015 Eden 315571539\Ex02_Othelo\bin\Debug\Ex02_Othelo.exe.config
+C:\Users\edenm\source\repos\CS-Task21\A23 Ex02 Simon 207380015 Eden 315571539\Ex02_Othelo\bin\Debug\Ex02_Othelo.exe
+C:\Users\edenm\source\repos\CS-Task21\A23 Ex02 Simon 207380015 Eden 315571539\Ex02_Othelo\bin\Debug\Ex02_Othelo.pdb
+C:\Users\edenm\source\repos\CS-Task21\A23 Ex02 Simon 207380015 Eden 315571539\Ex02_Othelo\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\edenm\source\repos\CS-Task21\A23 Ex02 Simon 207380015 Eden 315571539\Ex02_Othelo\obj\Debug\Ex02_Othelo.csproj.CopyComplete
+C:\Users\edenm\source\repos\CS-Task21\A23 Ex02 Simon 207380015 Eden 315571539\Ex02_Othelo\obj\Debug\Ex02_Othelo.exe
+C:\Users\edenm\source\repos\CS-Task21\A23 Ex02 Simon 207380015 Eden 315571539\Ex02_Othelo\obj\Debug\Ex02_Othelo.pdb

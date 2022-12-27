@@ -10,7 +10,9 @@ namespace Ex02_Othelo
     {
         private static void Main()
         {
-
+           GameManeger manager = new GameManeger();
+            manager.StartGmae();
+            Console.ReadLine();
         } 
     }
 }
